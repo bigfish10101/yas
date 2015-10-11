@@ -1,2 +1,1 @@
-# yas
-yet another samba wrapper for ios developer
+# yas - yet another samba wrapper for ios developer
